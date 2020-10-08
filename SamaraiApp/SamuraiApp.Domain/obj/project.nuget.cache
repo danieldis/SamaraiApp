@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y+1D2s6raBACkjnDHZlgEVd3BEGD+rt2/DXNcTWBpfE8WJ8FdY8j57mISKU9DdjXI/AS/A0wqDEf2mQnvVdnBQ==",
+  "dgSpecHash": "r+Gx4/obtsgsz48gLn2cVGyQHj42mnqFcpiZs5POuHGSOpr0lJBWEr66j2wH1a8gYK13DKXRSq6cGj8KjSocXA==",
   "success": true,
-  "projectFilePath": "/Users/danielsalmond/Projects/SamuraiApp.Data/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
+  "projectFilePath": "/Users/danielsalmond/SamaraiApp/SamaraiApp/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
   "expectedPackageFiles": [
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"

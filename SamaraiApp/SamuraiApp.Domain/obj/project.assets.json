@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielsalmond/Projects/SamuraiApp.Data/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
+      "projectUniqueName": "/Users/danielsalmond/SamaraiApp/SamaraiApp/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
       "projectName": "SamuraiApp.Domain",
-      "projectPath": "/Users/danielsalmond/Projects/SamuraiApp.Data/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
+      "projectPath": "/Users/danielsalmond/SamaraiApp/SamaraiApp/SamuraiApp.Domain/SamuraiApp.Domain.csproj",
       "packagesPath": "/Users/danielsalmond/.nuget/packages/",
-      "outputPath": "/Users/danielsalmond/Projects/SamuraiApp.Data/SamuraiApp.Domain/obj/",
+      "outputPath": "/Users/danielsalmond/SamaraiApp/SamaraiApp/SamuraiApp.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
